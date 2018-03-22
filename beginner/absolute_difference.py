@@ -11,3 +11,10 @@ diff21(-2) -> 23
 """
 
 def diff21(n):
+
+
+
+diff21(19)
+diff21(10)
+diff21(21)
+diff21(-2)

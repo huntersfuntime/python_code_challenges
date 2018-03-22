@@ -9,4 +9,11 @@ sleeping_trouble(True, 20) -> False
 """
 
 def sleeping_trouble(crying, hour):
-  
+
+
+
+
+sleeping_trouble(True, 6)
+sleeping_trouble(True, 7)
+sleeping_trouble(False, 6)
+sleeping_trouble(True, 20)
